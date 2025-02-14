@@ -3,6 +3,7 @@
 In this project, an Artificial Neural Network (ANN) was implemented to classify iris flowers into three species based on their features. The process involved loading the iris dataset, preprocessing the data through scaling and one-hot encoding, and training the ANN model. The model was then evaluated on a test set, achieving a perfect accuracy of 1.
 #### Objectives:
 a. To classify iris flowers into three species using an ANN.
+
 b. To achieve high classification accuracy through effective data preprocessing and model training.
 #### STEPS CARRIED OUT:
 1. Dataset Loading:
